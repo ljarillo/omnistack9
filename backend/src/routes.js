@@ -7,3 +7,7 @@ routes.post('/users', (req, res) => {
 });
 
 module.exports = routes;
+
+//MINUTO 30:57
+
+//yarn dev - para rodar o servidor na localhost:3333
